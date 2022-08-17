@@ -8,3 +8,5 @@ bigplan.save
 /demo
 .infracost
 .env
+*.binary
+
